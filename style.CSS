@@ -1,0 +1,54 @@
+h1 {
+    font-family: Georgia;
+    text-align: center;
+}
+
+table {
+    text-align:center;
+    border-color: whitesmoke;
+}
+td {
+    height: 86px;
+    width: 67px;
+    border-color:white;
+}
+
+.hyd {
+    background-color: #99e599;
+}
+.class1 {
+    color: brown;
+    background-color: #ffe57f;
+}
+
+.Mg {
+    color: white;
+    background-color: #EA8350;
+}
+.class2 {
+    color: brown;
+    background-color:#FFCCB2 ;
+}
+.class3 {
+    color: black;
+    background-color: #b2e5ff;
+}
+.class4 {
+    background-color: #9e87bd;
+}
+.class5 {
+    background-color: #B2CCFF;
+}
+.class6 {
+    background-color:#7fe5e5;
+
+}
+.class7 {
+    background-color: #CCCCCC;
+}
+.class8 {
+    background-color: #99E5B2;
+}
+.class9 {
+    background-color: #ffcce5;
+}
